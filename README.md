@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. git clone https://github.com/AMB05/TodoList-CRUD-React-JS.git
 2. cd TodoList-CRUD-React-JS
 3. npm install
-4. npm install react-bootstrap bootstra
+4. npm install react-bootstrap bootstrap
 5. npm audit
 6. npm audit fix –force
 7. npm start
