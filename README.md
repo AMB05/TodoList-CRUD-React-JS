@@ -2,6 +2,15 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1. git clone https://github.com/AMB05/TodoList-CRUD-React-JS.git
+2. cd TodoList-CRUD-React-JS
+3. npm install
+4. npm install react-bootstrap bootstra
+5. npm audit
+6. npm audit fix –force
+7. npm start
+8. http://localhost:3000
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -68,3 +77,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![image](https://github.com/user-attachments/assets/4fcc3d49-4d14-449f-a044-dc2a9e6b0564)
+
+![image](https://github.com/user-attachments/assets/20fe99d9-700b-4afc-9023-dccf1e9f5eb9)
+
+![image](https://github.com/user-attachments/assets/b302dcd9-f74c-4c9a-8f3c-3393014c7382)
+
+![image](https://github.com/user-attachments/assets/9763dfd3-7c6c-4015-a11a-ae629ef5ea02)
+
+![image](https://github.com/user-attachments/assets/9a54d9e1-139d-4dce-b139-930a720eb38a)
+
+
+
+
